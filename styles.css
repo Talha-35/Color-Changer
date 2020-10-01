@@ -24,7 +24,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
- 
+  margin-top: -10%;
   height: 80%;
   width: 100%;
 }
@@ -41,12 +41,6 @@ body {
   border-radius: 5px;
   
 }
-/* 
-.foot-button {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-} */
 
 .button{
   border-radius: 5px;
@@ -59,9 +53,7 @@ body {
 }
 
 .ptext{
-  /* position:absolute ; */
-  /* top: 50%;
-  width: 100%; */
+
   padding-bottom: 5%;
   text-align: center;    
   font-size: 18px;
