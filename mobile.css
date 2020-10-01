@@ -1,0 +1,38 @@
+
+
+#title {
+  font-size: 1.5rem;  
+}
+
+.container {
+
+  margin-top: -20%;
+
+}
+
+
+.colorInput{
+    text-indent: 1.2rem;
+}
+
+.button{
+  margin-left: 0.8rem;
+    margin-top: 1.5rem;
+  /* padding-top: 0.5rem; */
+  text-indent: 1.9rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  display: flex;
+  width: 80%;
+  border-radius: 5px;
+  height: 1.8rem;
+}
+
+.ptext{
+
+  padding-bottom: 7%;
+  font-size: 11px;
+ 
+}
+
+
