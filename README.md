@@ -13,7 +13,11 @@ random image selection and printing program
 
 ## These are short promotional photos about this app
 
-<img src= "overview/Screenshot1.png" width =180 > <img src= "overview/Screenshot2.png" width =180 >
+<img src= "overview/Screenshot1.png" width =500 > 
+
+----
+
+<img src= "overview/Screenshot2.png" width =500 >
 
 
 ### At the end of the project, following topics are to be covered;
